@@ -9,7 +9,7 @@ class Options
 public:
 	bool gameOver;
 	int x, y, fruitX, fruitY, score, tailX, tailY, nTail;
-	int k, i;
+	int k, i, j;
 	long width;
 	long height;
 };
